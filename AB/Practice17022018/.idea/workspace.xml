@@ -40,8 +40,8 @@
       <file leaf-file-name="AnimalDekorator.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/AnimalDekorator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.14764269">
-              <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+            <state vertical-scroll-proportion="0.31637716">
+              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
               <folding>
                 <element signature="e#159#160#0" expanded="true" />
                 <element signature="e#195#196#0" expanded="true" />
@@ -78,8 +78,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/Animal.java" />
-        <option value="$PROJECT_DIR$/src/AnimalDekorator.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/AnimalDekorator.java" />
       </list>
     </option>
   </component>
@@ -479,8 +479,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/AnimalDekorator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.14764269">
-          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+        <state vertical-scroll-proportion="0.31637716">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
           <folding>
             <element signature="e#159#160#0" expanded="true" />
             <element signature="e#195#196#0" expanded="true" />

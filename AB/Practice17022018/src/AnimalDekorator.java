@@ -10,12 +10,12 @@ public class AnimalDekorator extends Animal{
 @Override
     public String getName() {
         System.out.println("Log4j : enter Animal#getName()");
-        return super.getName();
+        return animal.getName();
     }
 
     @Override
     public String getType() {
         System.out.println("Log4j : enter Animal#getType()");
-        return super.getType();
+        return animal.getType();
     }
 }
