@@ -6,8 +6,8 @@ public class Main {
 
 
     public static void main(String[] args) {
-        AnimalDekorator animalD =  new AnimalDekorator(Animal.getInstance("TOM","CAT"));
-        System.out.println(animalD.getName());
-        System.out.println(animalD.getType());
+        Animal animal =  new AnimalDekorator(Animal.getInstance("TOM","CAT"));
+        System.out.println(animal.getName());
+        System.out.println(animal.getType());
     }
 }
